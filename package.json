@@ -17,7 +17,7 @@
     "react-native",
     "typescript",
     "jest",
-    "template",
+    "template"
   ],
   "author": "xutodra <xutodragon@gmail.com>",
   "license": "MIT",
