@@ -27,6 +27,7 @@
     "react-hook-form": "^7.15.4",
     "react-i18next": "^11.12.0",
     "react-native": "0.65.1",
+    "react-native-device-info": "^8.3.3",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-localize": "^2.1.4",
     "react-native-safe-area-context": "^3.3.2",
