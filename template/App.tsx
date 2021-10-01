@@ -12,6 +12,8 @@ import React from 'react';
 import { Provider } from 'react-redux';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
+import './src/languages/i18n';
+
 import AppNavigator from './src/navigators';
 import store from './src/store';
 
