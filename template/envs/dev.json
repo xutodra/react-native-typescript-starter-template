@@ -1,3 +1,4 @@
 {
-  "MODE": "DEV"
+  "MODE": "DEV",
+  "API_URL": ""
 }

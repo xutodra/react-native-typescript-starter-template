@@ -1,3 +1,4 @@
 {
-  "MODE": "QA"
+  "MODE": "QA",
+  "API_URL": ""
 }

@@ -1,3 +1,4 @@
 {
-  "MODE": "STAGING"
+  "MODE": "STAGING",
+  "API_URL": ""
 }
